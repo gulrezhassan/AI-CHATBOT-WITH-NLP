@@ -4,7 +4,7 @@
 
 **NAME**: MD GULREZ HASSAN
 
-**INTERN ID**CT06DH2093
+**INTERN ID**:CT06DH2093
 
 **DOMAIN**:PYTHON PROGRAMMING
 
@@ -68,4 +68,7 @@ Rasa, Dialogflow, Microsoft Bot Framework
 APIs:
 
 OpenAI GPT models, Hugging Face transformers
+
+//OUTPUT
+"C:\Users\imthh\Pictures\Screenshots\Screenshot (30).png"
 
